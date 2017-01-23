@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaelumVox</string>
+    <string name="calibrating">Calibrando...\n</string>
+    <string name="activity_results">Resultados</string>
+</resources>
